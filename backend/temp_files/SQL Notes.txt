@@ -1,0 +1,4 @@
+DDL - Data Definition Language - Used on Tables and databases - 	CREATE or DROP
+DML - Data Manipulation Language - Used on rows and columns   -		INSERT, UPDATE or SELECT
+
+Command to delete all rows in a table with minimum time - TRUNCATE - ***TRUNCATE table Employee***
